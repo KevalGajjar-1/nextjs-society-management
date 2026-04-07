@@ -10,9 +10,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'NoBrokerHood - Residential Management',
+  title: 'Residential Management',
   description: 'Manage your residential community with ease. Track finances, residents, vehicles, and notices.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
